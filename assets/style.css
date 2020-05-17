@@ -1,17 +1,7 @@
-nav{
-    background-color: #669999;
-    border: 1px;
-    margin: 0 auto;
-    color: #fff;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+body {
+    background-color: lightgray;
 }
 
-ul{
-    display: flex;
-    font-size: large;
-    width: 50%;
-    justify-content: space-evenly;
-    list-style-type: none;
+nav {
+    margin: 0px;
 }
