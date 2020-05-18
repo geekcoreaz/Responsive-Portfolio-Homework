@@ -11,3 +11,13 @@ html {
 .content {
     min-height: 95%;
 }
+
+.icon {
+	width: auto;
+	height: 64px;
+    transition: transform 1s;
+}
+ 
+.icon:hover {
+    transform: translate(20px, 20px);
+  }
